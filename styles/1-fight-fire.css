@@ -1,0 +1,16 @@
+#week1-container {
+
+  display: block;
+  max-width: 1100;
+  height: 700;
+  background: grey;
+  /*margin: auto;*/
+}
+
+#fight-fire {
+  font-family: 'Unna', serif;
+}
+
+#fight-fire-span span {
+  font-family: 'Lato', sans-serif;
+}
