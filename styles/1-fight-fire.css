@@ -1,3 +1,6 @@
+/*font-family: 'Unna', serif;
+font-family: 'Lato', sans-serif;*/
+
 #week1-container {
   background: url('../images/burnt-bus-water-dosed.jpeg')  no-repeat center center fixed;
   background-size: cover;
@@ -10,23 +13,18 @@
   font-family: 'Unna', serif;
 }
 
-span {
+#fire-span {
+  color: #bd0101;
+}
+
+#remember-span {
   color: black;
   font-family: 'Lato', sans-serif;
   font-size: 3em;
 }
 
-.counter {
-  display: inline-block;
-  margin: 30px 88%;
-  border: white solid 1px;
-}
-
-.counter p {
-  padding: 30px 40px;
-  font-size: 4em;
-  font-family: 'Cinzel Decorative', cursive;
-  color: #bd0101;
+#water-span {
+  color: #017fbd;
 }
 
 @media (max-width: 980px) {
@@ -47,30 +45,16 @@ span {
   }
   #week1-container {
     padding: 50px;
-  }
-  .counter {
-    margin: 30px 78%;
-  }
+}
 
 @media (max-width: 645px) {
   #fight-fire {
     font-size: 1.5em;
-  }
-  .counter p {
-    padding: 20px 30px;
-    font-size: 3em;
   }
 }
 
 @media (max-width: 490px) {
   #fight-fire {
     font-size: 1em;
-  }
-  .counter {
-    margin: 30px 68%;
-  }
-  .counter p {
-    padding: 10px 20px;
-    font-size: 2em;
   }
 }
