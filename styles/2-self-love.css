@@ -7,7 +7,7 @@ font-family: 'Open Sans', sans-serif;*/
   padding: 100px;
 }
 
-.self-love {
+#self-love {
   color: #9f6339;
   font-size: 3em;
   text-align: right;
@@ -34,33 +34,52 @@ font-family: 'Open Sans', sans-serif;*/
 }
 
 @media (max-width: 980px) {
-  #self-love {
+  #self-love, #steve {
     font-size: 2.5em;
+  }
+  #no-hate {
+    font-size: 3.5em;
   }
 }
 
 @media (max-width: 850px) {
-  #self-love {
+  #self-love, #steve {
     font-size: 2em;
+  }
+  #no-hate {
+    font-size: 3.25em;
+  }
+  #week2-container {
+    padding: 50px;
   }
 }
 
 @media (max-width: 720px) {
-  #self-love {
+  #self-love, #steve {
     font-size: 1.7em;
   }
   #week2-container {
     padding: 50px;
+  }
+  #no-hate {
+    font-size: 3em;
+  }
 }
 
 @media (max-width: 645px) {
-  #self-love {
+  #self-love, #steve {
     font-size: 1.5em;
+  }
+  #no-hate {
+    font-size: 2.5em;
   }
 }
 
 @media (max-width: 490px) {
-  #self-love {
+  #self-love, #steve {
     font-size: 1em;
+  }
+  #week2-container {
+    padding: 30px;
   }
 }
