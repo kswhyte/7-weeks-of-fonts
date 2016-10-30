@@ -58,7 +58,7 @@ font-family: 'Noto Sans', sans-serif;*/
   #week3-container {
     padding: 50px;
   }
-  #imodncl- {
+  #incl-moderation {
     font-size: 3em;
   }
 }
@@ -67,7 +67,10 @@ font-family: 'Noto Sans', sans-serif;*/
   #moderation, #oscar {
     font-size: 1.5em;
   }
-  #imodncl- {
+  #oscar {
+    padding-left: 200px;
+  }
+  #incl-moderation {
     font-size: 2.5em;
   }
 }
@@ -75,6 +78,12 @@ font-family: 'Noto Sans', sans-serif;*/
 @media (max-width: 490px) {
   #moderation, #oscar {
     font-size: 1em;
+  }
+  #oscar {
+    padding-left: 50px;
+  }
+  #incl-moderation {
+    margin-left: 30px;
   }
   #week3-container {
     padding: 30px;
