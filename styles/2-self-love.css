@@ -2,35 +2,32 @@
 font-family: 'Open Sans', sans-serif;*/
 
 #week2-container {
-  background: url('../images/human-horizon-line.jpeg')  no-repeat center center fixed;
+  background: url('../images/childhood-pride.jpeg')  no-repeat center center fixed;
   background-size: cover;
   padding: 100px;
 }
 
 #self-love {
   color: #9f6339;
-  font-size: 3em;
+  font-size: 2.8em;
   text-align: right;
   font-family: 'Vollkorn', serif;
 }
 
-/*#can-do-span {
-  color: black;
-}*/
-
 #no-hate {
   margin: 100px 0 50px 0;
-  font-size: 4em;
+  font-size: 5em;
   letter-spacing: 5px;
   color: #9864e2;
   font-family: 'Open Sans', sans-serif;
 }
 
 #steve {
-  color: #9f6339;
-  font-size: 3em;
+  color: #9864e2;
+  font-size: 2.8em;
   text-align: right;
   padding-bottom: 100px;
+  font-family: 'Vollkorn', serif;
 }
 
 @media (max-width: 980px) {

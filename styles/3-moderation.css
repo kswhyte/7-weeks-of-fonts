@@ -1,0 +1,82 @@
+/*font-family: 'Arvo', serif;
+font-family: 'Noto Sans', sans-serif;*/
+
+#week3-container {
+  background: url('../images/rock-climbing.jpg')  no-repeat center center fixed;
+  background-size: cover;
+  padding: 100px;
+}
+
+#moderation {
+  color: #65ffdf;
+  font-size: 3em;
+  text-align: left;
+  font-family: 'Arvo', serif;}
+
+#incl-moderation {
+  margin: 100px 0 50px 0;
+  font-size: 7em;
+  margin-left: 100px;
+  color: #e32a51;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+#oscar {
+  color: #65ffdf;
+  font-size: 3em;
+  text-align: left;
+  padding-bottom: 100px;
+  padding-left: 400px;
+  font-family: 'Arvo', serif;}
+}
+
+@media (max-width: 980px) {
+  #moderation, #oscar {
+    font-size: 2.5em;
+  }
+  #incl-moderation {
+    font-size: 3.5em;
+  }
+}
+
+@media (max-width: 850px) {
+  #moderation, #oscar {
+    font-size: 2em;
+  }
+  #incl-moderation {
+    font-size: 3.25em;
+  }
+  #week3-container {
+    padding: 50px;
+  }
+}
+
+@media (max-width: 720px) {
+  #moderation, #oscar {
+    font-size: 1.7em;
+  }
+  #week3-container {
+    padding: 50px;
+  }
+  #imodncl- {
+    font-size: 3em;
+  }
+}
+
+@media (max-width: 645px) {
+  #moderation, #oscar {
+    font-size: 1.5em;
+  }
+  #imodncl- {
+    font-size: 2.5em;
+  }
+}
+
+@media (max-width: 490px) {
+  #moderation, #oscar {
+    font-size: 1em;
+  }
+  #week3-container {
+    padding: 30px;
+  }
+}

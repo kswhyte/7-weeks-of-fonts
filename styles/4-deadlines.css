@@ -1,0 +1,87 @@
+/*font-family: 'Abril Fatface', cursive;
+font-family: 'Open Sans', sans-serif;*/
+
+#week4-container {
+  background: url('../images/rocket-into-space.jpeg')  no-repeat center center fixed;
+  background-size: cover;
+  padding: 100px;
+}
+
+#deadlines {
+  color: #ffae12;
+  margin-top: 100px;
+  font-size: 6em;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+}
+
+#fly-by {
+  font-family: 'Open Sans', sans-serif;
+  margin: 200px 200px 50px 0;
+  font-size: 2em;
+  color: #33e7e7;
+}
+
+#whoosh {
+  font-family: 'Abril Fatface', cursive;
+  color: #ffae12;
+}
+
+#douglas {
+  font-family: 'Open Sans', sans-serif;
+  color: #33e7e7;
+  font-size: 3em;
+  text-align: right;
+  padding-bottom: 100px;
+}
+
+@media (max-width: 980px) {
+  #self-love, #douglas {
+    font-size: 2.5em;
+  }
+  #fly-by {
+    font-size: 3.5em;
+  }
+}
+
+@media (max-width: 850px) {
+  #self-love, #douglas {
+    font-size: 2em;
+  }
+  #fly-by {
+    font-size: 3.25em;
+  }
+  #week4-container {
+    padding: 50px;
+  }
+}
+
+@media (max-width: 720px) {
+  #self-love, #douglas {
+    font-size: 1.7em;
+  }
+  #week4-container {
+    padding: 50px;
+  }
+  #fly-by {
+    font-size: 3em;
+  }
+}
+
+@media (max-width: 645px) {
+  #self-love, #douglas {
+    font-size: 1.5em;
+  }
+  #fly-by {
+    font-size: 2.5em;
+  }
+}
+
+@media (max-width: 490px) {
+  #self-love, #douglas {
+    font-size: 1em;
+  }
+  #week4-container {
+    padding: 30px;
+  }
+}
