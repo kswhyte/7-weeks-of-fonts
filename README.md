@@ -8,6 +8,8 @@ The choices a designer makes around typography are calculated, precise, and deep
 
 To help gain a better understanding of how we can use typography and fonts as tools for visual expression, I did a variation of a common Intro to Typography exercise. This project will enforce the concept that type can be used as a visual communication tool which enhances the meaning and emotion of the content beyond simply conveying text.
 
+<img width="1269" alt="screen shot 2017-01-11 at 10 23 04 pm" src="https://cloud.githubusercontent.com/assets/13802107/21878045/ad8d4e28-d84c-11e6-8bc2-92bc686f02f9.png">
+
 ---
 ###Project Overview
 
@@ -17,3 +19,6 @@ To help build typography and layout skills simultaneously, I made my challenges 
 
 ---
 You can see my experiments with Typography, Fonts, Color, and Photography at [7-Weeks-of-Fonts](https://kswhyte.github.io/7-weeks-of-fonts/)
+
+---
+<img width="1276" alt="screen shot 2017-01-11 at 10 23 46 pm" src="https://cloud.githubusercontent.com/assets/13802107/21878048/b3a8607c-d84c-11e6-83ae-55cbebe48fee.png">
